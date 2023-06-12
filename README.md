@@ -15,7 +15,6 @@ Skills: ✅HTML✅CSS✅C✅PYTHON✅C++✅JS
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifbhuiyann&theme=tokyonight)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asifbhuiyann&show_icons=true)  
 
