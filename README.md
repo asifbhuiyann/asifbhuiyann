@@ -1,33 +1,28 @@
-<h1 align="center">Hi 👋, I'm Asif Bhuiyan</h1>
-<h3 align="center">A passionate Web Developer from Bangladesh.</h3>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asifbhuiyann)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/asif-bhuiyan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/aasifbhuiyan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Asif__Bhuiyan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](asifbhuiyan.carrd.co)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](asifbhuiyanfc@gmail.com)  
+### Hi there 👋, I am Asif Bhuiyan
+#### Web Developer
+![Web Developer](https://media.licdn.com/dms/image/C4E16AQFjoEw2rDH4UA/profile-displaybackgroundimage-shrink_350_1400/0/1609250140173?e=1692230400&v=beta&t=lCAbSED6Peoxs7RPFrokAVrWaD5HCPV_u0NfZr0qhAg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asifbhuiyann&label=Profile%20views&color=0e75b6&style=flat" alt="asifbhuiyann" /> </p>
+I am a Web Developer. I have mastered Front End Developing and currently, I am learning Back End. I am also a Digital Marketer. I am expert in Facebook Marketing, Email Marketing, Lead Generation, SEO etc. 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifbhuiyann" alt="asifbhuiyann" /></a> </p>
+Skills: ✅HTML✅CSS✅C✅PYTHON✅C++✅JS
 
-<p align="left"> <a href="https://twitter.com/asif__bhuiyan" target="blank"><img src="https://img.shields.io/twitter/follow/asif__bhuiyan?logo=twitter&style=for-the-badge" alt="asif__bhuiyan" /></a> </p>
+- 🔭 I’m currently working on a personal project. 
+- 🌱 I’m currently learning Php 
+- 👯 I’m looking to collaborate on Github 
+- 🤔 I’m looking for help with ML 
+- 💬 Ask me about Web Developing 
+- 📫 How to reach me: Connect me with email. 
 
-- 🔭 I’m currently working on a personal project. **AI Based Voice Assistant**
 
-- 🌱 I’m currently learning **Java Script.**
 
-- 💬 Ask me about **Web Developing.**
 
-- 📫 How to reach me **asif.bhuiyan3330@gmail.com**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifbhuiyann)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/asif__bhuiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asif__bhuiyan" height="30" width="40" /></a>
-<a href="asif-bhuiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asif-bhuiyan-a1b701202/?originalsubdomain=bd" height="30" width="40" /></a>
-<a href="aasifbhuiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aasifbhuiyan" height="30" width="40" /></a>
-<a href="_asif._.bhuiyan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/_asif._.bhuiyan_?igshid=mznlngnkzwq4mg==" height="30" width="40" /></a>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asifbhuiyann&show_icons=true)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![GitHub metrics](https://metrics.lecoq.io/asifbhuiyann)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asifbhuiyann&show_icons=true&locale=en&layout=compact" alt="asifbhuiyann" /></p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=asifbhuiyann)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asifbhuiyann&show_icons=true&locale=en" alt="asifbhuiyann" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifbhuiyann&" alt="asifbhuiyann" /></p>
+![Profile views](https://gpvc.arturio.dev/asifbhuiyann)  
