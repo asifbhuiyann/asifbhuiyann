@@ -15,7 +15,7 @@ Skills: ✅HTML✅CSS✅C✅PYTHON✅C++✅JS
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifbhuiyann)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifbhuiyann)](https://github.com/asifbhuiyann/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asifbhuiyann&show_icons=true)  
 
