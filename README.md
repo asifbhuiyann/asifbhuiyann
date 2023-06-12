@@ -6,7 +6,14 @@
 I am a Web Developer. I have mastered Front End Developing and currently, I am learning Back End. I am also a Digital Marketer. I am expert in Facebook Marketing, Email Marketing, Lead Generation, SEO etc. 
 
 
-Skills: ✅HTML✅CSS✅C✅PYTHON✅C++✅JS
+
+### Skills: 
+✅HTML
+✅CSS
+✅C
+✅PYTHON
+✅C++
+✅JS
 
 - 🔭 I’m currently working on a personal project. 
 - 🌱 I’m currently learning Php 
