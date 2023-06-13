@@ -28,15 +28,15 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 
 <p align="center">
-<a href="https://linkedin.com/in/abhinandanraj" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="asif-bhuiyan" /></a>
-<a href="https://github.com/abhinandanraj" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="asifbhuiyann" /></a>
+<a href="https://linkedin.com/in/asif-bhuiyan" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="asif-bhuiyan" /></a>
+<a href="https://github.com/asifbhuiyann" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="asifbhuiyann" /></a>
 <a href="mailto:asifbhuiyanfc@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="asifbhuiyanfc" /></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=asifbhuiyann&label=Visitors&color=0088cc&style=flat-square" alt="asifbhuiyann" /> </p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
-<details>
-  <summary>📊 <b>Github Readme Stats</b></summary>
+<!-- <details> -->
+<!--   <summary>📊 <b>Github Readme Stats</b></summary> -->
  <br />
  <p align="center">
   <a href="https://github.com/asifbhuiyann">
@@ -46,21 +46,21 @@
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=asifbhuiyann&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
-</details>
+<!-- </details> -->
 
-<details>
- <summary>🏆 <b>Github Profile Trophy</b></summary>
+<!-- <details>
+ <summary>🏆 <b>Github Profile Trophy</b></summary> -->
  <br />
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
    <img src="https://github-profile-trophy.vercel.app/?username=asifbhuiyann&column=8&theme=darkhub"/>
   </a>
  </p>
-</details>
+<!-- </details> -->
 
 
-<details>
-  <br />
+<!-- <details>
+  <br /> -->
 <!--   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
   	   <li><b>OS:</b> Windows 11 </li>
@@ -70,4 +70,4 @@
 	     <li><b>To Stay Updated:</b> Linkedin </li>
 	    <br />
 	</ul> -->
-</details>
+<!-- </details> -->
