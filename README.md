@@ -7,7 +7,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 🔭 I’m currently working on **a Personal Project.**
+<!--- 🔭 I’m currently working on **a Personal Project.**-->
 <!-- - 🌱 I’m currently learning **PHP and JS.** -->
 <!-- - 👯 I’m looking to collaborate on **Java and Web Projects.** -->
 <!--- 👨‍💻 All of my projects are available at <a href="https://github.com/asifbhuiyann?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="asifbhuiyann" height="30" width="40" /></a>
@@ -46,9 +46,10 @@
  </p>
 
  <br />
- <p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
    <img src="https://github-profile-trophy.vercel.app/?username=asifbhuiyann&column=8&theme=darkhub"/>
   </a>
  </p>
+ -->
 
