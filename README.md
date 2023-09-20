@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello, I'm Asif Bhuiyan </h1>
-<h2 align="center">A Web Developer</h2>
+<h2 align="center">A Full Stack Web Developer</h2>
 <h3 align="center">I have a keen interest in Artificial intelligence and Web Development and have a huge fascination with technology.</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
