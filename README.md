@@ -30,7 +30,7 @@ I'm a passionate Full Stack Web Developer with a deep love for crafting exceptio
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifbhuiyann&layout=compact)
 
 ## Most Used Language: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifbhuiyann&layout=pie)](https://github.com/asifbhuiyann/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifbhuiyann&layout=pie)
 
 ## Github Stats: 
 ![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifbhuiyann&show_icons=true&theme=transparent)
