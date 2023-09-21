@@ -21,6 +21,7 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifbhuiyann&layout=compact)
 
 ## **Reach Me:** ️
 
