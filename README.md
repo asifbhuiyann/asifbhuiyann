@@ -32,4 +32,4 @@ I'm a passionate Full Stack Web Developer with a deep love for crafting exceptio
 
 ## Github Stats: 
 ![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifbhuiyann&show_icons=true&theme=transparent)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=asifbhuiyann&theme=dark)](https://git.io/streak-stats)
+
