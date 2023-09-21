@@ -2,7 +2,7 @@
 <h2 align="center">A Full Stack Web Developer</h2>
 <h3 align="center">I have a keen interest in Artificial intelligence and Web Development and have a huge fascination with technology.</h3>
 
-**About Me**:
+## **About Me**:
 
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifbhuiyann&theme=radical&hide_border=true"/>
