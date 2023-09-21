@@ -30,13 +30,13 @@ I'm a passionate Full Stack Web Developer with a deep love for crafting exceptio
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
 
+<!--
 ## Github Stats: 
- 
   <a href="https://github.com/asifbhuiyann">
    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=asifbhuiyann&show_icons=true&theme=radical&count_private=true">
   </a>
  </p>
-
+-->
 ## Reach Me:
 
 <p align="left">
