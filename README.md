@@ -4,7 +4,11 @@
  I have a keen interest in Artificial intelligence and Web Development and have a huge fascination with technology. <br> 
  </p> 
 
-<p align="left"> <a href="https://twitter.com/asif__bhuiyan" target="blank"><img src="https://img.shields.io/twitter/follow/asif__bhuiyan?logo=twitter&style=for-the-badge" alt="asif__bhuiyan" /></a> </p>
+<p align="left"> 
+ <a href="https://twitter.com/asif__bhuiyan" target="blank"><img src="https://img.shields.io/twitter/follow/asif__bhuiyan?logo=twitter&style=for-the-badge" alt="asif__bhuiyan" /></a> 
+<a href="https://www.linkedin.com/in/asif-bhuiyan-a1b701202/?originalSubdomain=bd" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="asif-bhuiyan" /></a>
+<a href="mailto:asifbhuiyanfc@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="asifbhuiyanfc" /></a> 
+</p>
 
 ## About Me
 I'm a passionate Full Stack Web Developer with a deep love for crafting exceptional digital experiences. My journey into the world of web development began with a fascination for technology and a desire to bring ideas to life on the internet. Over the years, I've honed my skills and gained valuable experience in both front-end and back-end development, making me a well-rounded developer capable of tackling diverse projects. 
