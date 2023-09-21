@@ -5,13 +5,6 @@
 
 
 ## **About Me**:
-
-<!--- 🔭 I’m currently working on **a Personal Project.**-->
-<!-- - 🌱 I’m currently learning **PHP and JS.** -->
-<!-- - 👯 I’m looking to collaborate on **Java and Web Projects.** -->
-<!--- 👨‍💻 All of my projects are available at <a href="https://github.com/asifbhuiyann?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="asifbhuiyann" height="30" width="40" /></a>
-- 💬 Ask me about **Web Developing.**  -->
-
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifbhuiyann&theme=radical&hide_border=true"/>
 </p>
