@@ -4,7 +4,7 @@
 <h3 align="center">I have a keen interest in Artificial intelligence and Web Development and have a huge fascination with technology.</h3>
 
 
-## **About Me:**
+##About Me:
 
 <!--- 🔭 I’m currently working on **a Personal Project.**-->
 <!-- - 🌱 I’m currently learning **PHP and JS.** -->
