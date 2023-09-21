@@ -34,9 +34,8 @@ I'm a passionate Full Stack Web Developer with a deep love for crafting exceptio
 
 ## Reach Me:
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/asif-bhuiyan-a1b701202/?originalSubdomain=bd" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="asif-bhuiyan" /></a>
-<!-- <a href="https://github.com/asifbhuiyann" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="asifbhuiyann" /></a> -->
 <a href="mailto:asifbhuiyanfc@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="asifbhuiyanfc" /></a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=asifbhuiyann&label=Visitors&color=0088cc&style=flat-square" alt="asifbhuiyann" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=asifbhuiyann&label=Visitors&color=0088cc&style=flat-square" alt="asifbhuiyann" /> </p>
 
