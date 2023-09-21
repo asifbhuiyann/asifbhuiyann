@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Asif Bhuiyan </h1>
+<h1 align="center" style="color: black;">Hello, I'm Asif Bhuiyan </h1>
 <h2 align="center">A Full Stack Web Developer</h2>
 <h3 align="center">I have a keen interest in Artificial intelligence and Web Development and have a huge fascination with technology.</h3>
 
