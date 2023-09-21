@@ -1,6 +1,6 @@
-## It's Me Asif Bhuiyan
+## It's Me, Asif Bhuiyan
 <p>
- I am Web Developer.<br> 
+ I am a Web Developer.<br> 
  I have a keen interest in Artificial intelligence and Web Development and have a huge fascination with technology. <br> 
 </p> 
 
@@ -27,19 +27,9 @@ I'm a passionate Full Stack Web Developer with a deep love for crafting exceptio
  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifbhuiyann&layout=compact)
-
 ## Most Used Language: 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifbhuiyann&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifbhuiyann&layout=compact)
 
 ## Github Stats: 
 ![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifbhuiyann&show_icons=true&theme=transparent)
-
-## Reach Me:
-
-<p align="left">
-<p> <img src="https://komarev.com/ghpvc/?username=asifbhuiyann&label=Visitors&color=0088cc&style=flat-square" alt="asifbhuiyann"/></p>
-<a href="https://www.linkedin.com/in/asif-bhuiyan-a1b701202/?originalSubdomain=bd" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="asif-bhuiyan" /></a>
-<a href="mailto:asifbhuiyanfc@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="asifbhuiyanfc" /></a> -->
-
 
