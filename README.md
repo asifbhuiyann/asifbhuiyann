@@ -5,14 +5,12 @@
 </p> 
 
 <p align="left">
- 
 
-
- <a href="https://twitter.com/asif__bhuiyan" target="blank"><img src="https://img.shields.io/twitter/follow/asif__bhuiyan?logo=twitter&style=for-the-badge" alt="asif__bhuiyan" /></a> <br>
+<a href="https://twitter.com/asif__bhuiyan" target="blank"><img src="https://img.shields.io/twitter/follow/asif__bhuiyan?logo=twitter&style=for-the-badge" alt="asif__bhuiyan" /></a> <br>
 <a href="https://www.linkedin.com/in/asif-bhuiyan-a1b701202/?originalSubdomain=bd" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="asif-bhuiyan" /></a>
-<a href="mailto:asifbhuiyanfc@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="asifbhuiyanfc" /></a>  [![](https://visitcount.itsvg.in/api?id=asifbhuiyann&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
+<a href="mailto:asifbhuiyanfc@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="asifbhuiyanfc" /></a>  
 
-<div align="center">
+<div align="left">
   
 [![](https://visitcount.itsvg.in/api?id=asifbhuiyann&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
   
