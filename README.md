@@ -36,6 +36,9 @@ I'm a passionate Full Stack Web Developer with a deep love for crafting exceptio
  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
+<p align="left">
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> <img alt="C" src="https://img.shields.io/badge/c-%#E34F26?style=for-the-badge&logo=HTML&logoColor=white">
+</p>
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifbhuiyann&layout=compact)-->
 
