@@ -19,6 +19,9 @@
 ## About Me
 I'm a passionate Full Stack Web Developer with a deep love for crafting exceptional digital experiences. My journey into the world of web development began with a fascination for technology and a desire to bring ideas to life on the internet. Over the years, I've honed my skills and gained valuable experience in both front-end and back-end development, making me a well-rounded developer capable of tackling diverse projects. 
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Skills: 
 <p>
  
@@ -37,6 +40,9 @@ I'm a passionate Full Stack Web Developer with a deep love for crafting exceptio
 <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 
 </p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Github Stats:
 <p align="center">
