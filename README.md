@@ -43,8 +43,7 @@ I'm a passionate Full Stack Web Developer with a deep love for crafting exceptio
 
 ## Stats:
 <p align="center">
-  <!--- stats (start) -->
-  <img  title="🔥 Get streak stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kingshukkundu&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=asifbhuiyann&theme=dark&hide_border=false" /> 
 </p>
 
 <!--
