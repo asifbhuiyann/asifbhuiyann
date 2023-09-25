@@ -6,7 +6,7 @@
 
 <p>
 
-<a href="https://twitter.com/asif__bhuiyan" target="blank"><img src="https://img.shields.io/twitter/follow/asif__bhuiyan?logo=twitter&style=for-the-badge" alt="asif__bhuiyan" /></a> 
+<a href="https://twitter.com/asif__bhuiyan" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="asif__bhuiyan" /></a> 
 <a href="https://www.facebook.com/aasifbhuiyan" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="aasifbhuiyan" /></a>  <br>
 <a href="https://www.linkedin.com/in/asif-bhuiyan-a1b701202/?originalSubdomain=bd" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="asif-bhuiyan" /></a>
 <a href="mailto:asifbhuiyanfc@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="asifbhuiyanfc" /></a>  <a href="" target="_blank"><img align="center" src="https://visitcount.itsvg.in/api?id=asifbhuiyann&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in" alt="asifbhuiyanfc" /></a>  
