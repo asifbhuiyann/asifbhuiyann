@@ -11,11 +11,8 @@
 <a href="https://www.linkedin.com/in/asif-bhuiyan-a1b701202/?originalSubdomain=bd" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="asif-bhuiyan" /></a>
 <a href="mailto:asifbhuiyanfc@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="asifbhuiyanfc" /></a>  
 
-
 <div align="left">
-  
 [![](https://visitcount.itsvg.in/api?id=asifbhuiyann&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
-  
 </div>
 </p>
 
@@ -25,18 +22,7 @@
 ## About Me
 I'm a passionate Full Stack Web Developer with a deep love for crafting exceptional digital experiences. My journey into the world of web development began with a fascination for technology and a desire to bring ideas to life on the internet. Over the years, I've honed my skills and gained valuable experience in both front-end and back-end development, making me a well-rounded developer capable of tackling diverse projects. 
 
-## Snake:
-
-<!--horizontal divider(gradiant)-->
-<img src="resources/divider.gif">
-
-<!--- snake -->
-<div align="center">
-  <img  src=resources/grid-snake.svg
-       alt="snake" /></a>
-</div>
-
-## Language Skills: 
+## Skills: 
 <p>
  
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=&logoColor=white">
@@ -54,10 +40,15 @@ I'm a passionate Full Stack Web Developer with a deep love for crafting exceptio
 <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 
 </p>
+
+## Stats:
+<p align="center">
+  <!--- stats (start) -->
+  <img  title="🔥 Get streak stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kingshukkundu&theme=dark&hide_border=false" /> 
+</p>
+
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifbhuiyann&layout=compact)-->
-
 <!-- ![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifbhuiyann&show_icons=true&theme=transparent) -->
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
