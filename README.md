@@ -25,10 +25,12 @@
 ## About Me
 I'm a passionate Full Stack Web Developer with a deep love for crafting exceptional digital experiences. My journey into the world of web development began with a fascination for technology and a desire to bring ideas to life on the internet. Over the years, I've honed my skills and gained valuable experience in both front-end and back-end development, making me a well-rounded developer capable of tackling diverse projects. 
 
+##Snake:
+
 <div align="center">
-  <img  src=resources/grid-snake.svg
-       alt="snake" /></a>
+  <img  src=resources/grid-snake.svg alt="snake" /></a>
 </div>
+
 
 ## Language Skills: 
 <p>
