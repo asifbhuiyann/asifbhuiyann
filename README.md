@@ -1,6 +1,6 @@
 ## It's Me, Asif Bhuiyan
 <p>
- I am a  <h4>Web Developer</h4> <br> 
+ I am a <h4>Web Developer</h4> <br> 
  I have a keen interest in Artificial intelligence and Web Development and have a huge fascination with technology. <br> 
 </p> 
 
