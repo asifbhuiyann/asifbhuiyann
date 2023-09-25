@@ -38,3 +38,6 @@ I'm a passionate Full Stack Web Developer with a deep love for crafting exceptio
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifbhuiyann&layout=compact)-->
 
 <!-- ![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifbhuiyann&show_icons=true&theme=transparent) -->
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
