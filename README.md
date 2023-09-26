@@ -50,7 +50,7 @@
 ## Github Stats:
 
 <p align="center">
-  <img  title="🔥 Get streak stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=asifbhuiyann&theme=dark&hide_border=false" /> 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=asifbhuiyann&theme=dracula&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 </p>
 
 <!--profile visit count-->
