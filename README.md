@@ -52,7 +52,7 @@
 
 <p align="center">
  
- [![GitHub Streak](https://streak-stats.demolab.com?user=asifbhuiyann&theme=dracula&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=asifbhuiyann&theme=dracula&border_radius=5&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
  
 </p>
 
