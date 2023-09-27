@@ -52,8 +52,7 @@
 
 <p align="center">
  
- <img  title="🔥 Get streak stats" alt="Streak Stats" src="https://streak-stats.demolab.com?user=asifbhuiyann&theme=dracula&border_radius=5&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats" /> 
- 
+<img  title="🔥 Get streak stats" alt="Streak Status" src="https://github-readme-streak-stats.herokuapp.com/?user=asifbhuiyann&theme=dark&hide_border=false" /> 
 </p>
 
 <!--profile visit count-->
