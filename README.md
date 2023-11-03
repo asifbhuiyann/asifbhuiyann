@@ -4,8 +4,9 @@
  I have a keen interest in Artificial intelligence and Web Development and have a huge fascination with technology. <br> 
 </p> 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p>
+
 ## Connect With Me
+<p>
 <a href="mailto:asifbhuiyanfc@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="asifbhuiyanfc" /></a> 
 <a href="https://www.facebook.com/aasifbhuiyan" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="aasifbhuiyan" /></a> 
 <a href="https://twitter.com/asif__bhuiyan" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="asif__bhuiyan" /></a> 
