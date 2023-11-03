@@ -22,9 +22,10 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/Mirzaazmath/threads_clone/blob/main/assets/output/coding.gif">
 
 ## About Me
-<p text-align='justify'>
- I'm a passionate Full Stack Web Developer with a deep love for crafting exceptional digital experiences. My journey into the world of web development began with a fascination for technology and a desire to bring ideas to life on the internet. Over the years, I've honed my skills and gained valuable experience in both front-end and back-end development, making me a well-rounded developer capable of tackling diverse projects. My commitment to continuous learning and staying up-to-date with the latest industry trends ensures that I can deliver cutting-edge solutions to my clients. Whether it's creating responsive and user-friendly interfaces, optimizing server performance, or implementing secure authentication systems, I'm always eager to take on new challenges and push the boundaries of what's possible in the digital realm. 
+<p style="text-align: justify;">
+    I'm a passionate Full Stack Web Developer with a deep love for crafting exceptional digital experiences. My journey into the world of web development began with a fascination for technology and a desire to bring ideas to life on the internet. Over the years, I've honed my skills and gained valuable experience in both front-end and back-end development, making me a well-rounded developer capable of tackling diverse projects. My commitment to continuous learning and staying up-to-date with the latest industry trends ensures that I can deliver cutting-edge solutions to my clients. Whether it's creating responsive and user-friendly interfaces, optimizing server performance, or implementing secure authentication systems, I'm always eager to take on new challenges and push the boundaries of what's possible in the digital realm.
 </p>
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
