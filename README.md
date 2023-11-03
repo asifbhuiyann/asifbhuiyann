@@ -33,7 +33,7 @@ I'm a passionate Full Stack Web Developer with a deep love for crafting exceptio
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Skills: 
+## Skills
 <p>
  
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=&logoColor=white">
@@ -55,7 +55,7 @@ I'm a passionate Full Stack Web Developer with a deep love for crafting exceptio
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Github Stats:
+## Github Stats
 
 <p align="center">
  
