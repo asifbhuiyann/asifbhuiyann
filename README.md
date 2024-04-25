@@ -1,6 +1,6 @@
 ## It's Me, Asif Bhuiyan
 <p>
- ### Web Developer <br> 
+ I'm a Web Developer <br> 
  I have a keen interest in Machine Learning and Web Development and have a huge fascination with technology. <br> 
 </p> 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
