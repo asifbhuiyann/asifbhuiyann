@@ -59,7 +59,7 @@ I'm a full-stack web developer who thrives at the intersection of design and fun
 
 <p align="center">
   <a href="https://github.com/asifbhuiyann">
-    <img src="https://github-readme-stats.vercel.app/api?username=asifbhuiyann&count_private=true&show_icons=true&theme=dark&hide_border=false&include_all_commits=true" alt="Asif Bhuiyan's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=asifbhuiyann&count_private=true&show_icons=true&theme=light&hide_border=false&include_all_commits=true" alt="Asif Bhuiyan's GitHub Stats">
   </a>
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifbhuiyann&theme=dark&hide_border=false" alt="Streak Stats"> -->
 <a href="https://gitstat.demolab.com/?user=asifbhuiyann&theme=travelers-theme&hide_border=true&border_radius=6">
