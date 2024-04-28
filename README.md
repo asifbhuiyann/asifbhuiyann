@@ -61,11 +61,11 @@ I'm a full-stack web developer who thrives at the intersection of design and fun
   <a href="https://github.com/asifbhuiyann">
     <img src="https://github-readme-stats.vercel.app/api?username=asifbhuiyann&count_private=true&show_icons=true&theme=light&hide_border=false&include_all_commits=true" alt="Asif Bhuiyan's GitHub Stats">
   </a>
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifbhuiyann&theme=dark&hide_border=false" alt="Streak Stats"> -->
- 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=asifbhuiyann&theme=default)](https://git.io/streak-stats)
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=asifbhuiyann&theme=default" alt="GitHub Streak">
+  </a>
 </p>
+
 
 ## Github Activity Graph
 [![Asif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asifbhuiyann&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
