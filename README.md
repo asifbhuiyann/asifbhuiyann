@@ -68,7 +68,7 @@ I'm a full-stack web developer who thrives at the intersection of design and fun
 </p>
 
 ## Github Activity Graph
-[![Asif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asifbhuiyann&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Asif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asifbhuiyann&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--profile visit count-->
 
