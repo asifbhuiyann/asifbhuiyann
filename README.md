@@ -3,7 +3,7 @@
  I'm a Web Developer <br> 
  I have a keen interest in Machine Learning and Web Development and have a huge fascination with technology. <br> 
 </p> 
-<!--  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Connect With Me
 <p>
@@ -18,7 +18,7 @@
 <!-- <a href="" target="_blank"><img align="center" src="https://visitcount.itsvg.in/api?id=asifbhuiyann&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in" alt="Visitors" /></a>  -->
 
 </p>
-
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="right" alt="Coding" width="400" src="https://github.com/Mirzaazmath/threads_clone/blob/main/assets/output/coding.gif">
 
 ## About Me
@@ -26,9 +26,8 @@
 <p style="text-align: justify;">
 I'm a full-stack web developer who thrives at the intersection of design and functionality. I wield both front-end and back-end languages to craft beautiful, user-centric web experiences. Over the years, I've honed my skills and gained valuable experience in both front-end and back-end development.  I'm always eager to take on new challenges and push the boundaries of what's possible in the digital realm. Dive into my code and explore the worlds I build!
 </p>
-
-
-
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
 ## Skills
 <p>
  
@@ -47,7 +46,8 @@ I'm a full-stack web developer who thrives at the intersection of design and fun
 <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 
 </p>
-
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
 ## Github Stats
 
 <p align="center">
@@ -58,7 +58,7 @@ I'm a full-stack web developer who thrives at the intersection of design and fun
     <img src="https://streak-stats.demolab.com/?user=asifbhuiyann&theme=default" alt="GitHub Streak">
   </a>
 </p>
-
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Github Activity Graph
 [![Asif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asifbhuiyann&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -74,4 +74,4 @@ I'm a full-stack web developer who thrives at the intersection of design and fun
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifbhuiyann&layout=compact)-->
 <!-- ![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifbhuiyann&show_icons=true&theme=transparent) -->
-
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
