@@ -59,7 +59,8 @@ I'm a full-stack web developer who thrives at the intersection of design and fun
 
 <p align="center">
  
-<img  title="🔥 Get streak stats" alt="Streak Status" src="https://github-readme-streak-stats.herokuapp.com/?user=asifbhuiyann&theme=dark&hide_border=false" /> 
+[![Asif Bhuiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifbhuiyann)](https://github.com/asifbhuiyann)
+
 </p>
 
 <!--profile visit count-->
