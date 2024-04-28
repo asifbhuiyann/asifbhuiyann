@@ -63,6 +63,7 @@ I'm a full-stack web developer who thrives at the intersection of design and fun
   </a>
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifbhuiyann&theme=dark&hide_border=false" alt="Streak Stats"> -->
 </p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=asifbhuiyann&theme=travelers-theme&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 
 <!--profile visit count-->
 
