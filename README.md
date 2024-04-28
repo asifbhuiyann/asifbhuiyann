@@ -58,11 +58,11 @@ I'm a full-stack web developer who thrives at the intersection of design and fun
 ## Github Stats
 
 <p align="center">
- 
-[![Asif Bhuiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifbhuiyann&count_private=true)](https://github.com/asifbhuiyann)
-
-
+  <a href="https://github.com/asifbhuiyann">
+    <img src="https://github-readme-stats.vercel.app/api?username=asifbhuiyann&count_private=true&show_icons=true&theme=dark&hide_border=false" alt="Asif Bhuiyan's GitHub Stats">
+  </a>
 </p>
+
 
 <!--profile visit count-->
 
