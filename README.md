@@ -13,7 +13,6 @@
 <a href="https://www.linkedin.com/in/asif-bhuiyan-a1b701202/?originalSubdomain=bd" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="asif-bhuiyan" /></a>
 
 <!-- <a href="https://sites.google.com/view/asifbhuiyan" target="_blank"><img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="asif-bhuiyan" /></a> -->
-
 <!-- <a href="" target="_blank"><img align="center" src="https://visitcount.itsvg.in/api?id=asifbhuiyann&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in" alt="Visitors" /></a>  -->
 
 </p>
