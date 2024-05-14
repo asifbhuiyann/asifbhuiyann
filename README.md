@@ -55,7 +55,7 @@ I'm a full-stack web developer who thrives at the intersection of design and fun
      <img width="800" height="220" src="https://streak-stats.demolab.com?user=asifbhuiyann&theme=light&hide_border=true&border_radius=5&card_width=800">
   </a> -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=asifbhuiyann&theme=default" alt="GitHub Streak">
+    <img width="800" height="220" src="https://streak-stats.demolab.com?user=asifbhuiyann&theme=light&hide_border=true&border_radius=5&card_width=800">
   </a>
 </p>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
