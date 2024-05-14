@@ -76,12 +76,12 @@ I'm a full-stack web developer who thrives at the intersection of design and fun
 
 <!--profile visit count-->
 
-
-
-<!--
 <div align="center">
 [![](https://visitcount.itsvg.in/api?id=asifbhuiyann&label=Profile%20Views&color=orange&icon=1&pretty=true)](https://visitcount.itsvg.in)
 </div>
+
+<!--
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifbhuiyann&layout=compact)-->
 <!-- ![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifbhuiyann&show_icons=true&theme=transparent) -->
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
