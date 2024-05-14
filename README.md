@@ -58,6 +58,20 @@ I'm a full-stack web developer who thrives at the intersection of design and fun
     <img width="800" height="220" src="https://streak-stats.demolab.com?user=asifbhuiyann&theme=light&hide_border=true&border_radius=5&card_width=800">
   </a>
 </p>
+
+<p align="center">
+  <img width="800" height="200" src="https://github-readme-stats.vercel.app/api?username=asifbhuiyann&show_icons=true&theme=vision-friendly-dark">
+  <img width="800" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifbhuiyann&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=asifbhuiyann&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Github Activity Graph
