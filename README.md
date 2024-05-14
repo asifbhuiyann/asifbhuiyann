@@ -60,7 +60,7 @@ I'm a full-stack web developer who thrives at the intersection of design and fun
 </p>
 
 <p align="center">
-  <img width="800" height="200" src="https://github-readme-stats.vercel.app/api?username=asifbhuiyann&show_icons=true&theme=light">
+<!--   <img width="800" height="200" src="https://github-readme-stats.vercel.app/api?username=asifbhuiyann&show_icons=true&theme=light"> -->
   <img width="800" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifbhuiyann&size_weight=0.15&count_weight=0.5&layout=compact&theme=light">
 </p>
  
@@ -78,7 +78,7 @@ I'm a full-stack web developer who thrives at the intersection of design and fun
 
 <div align="center">
  
-[![](https://visitcount.itsvg.in/api?id=asifbhuiyann&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=asifbhuiyann&label=Profile%20Views&color=orange&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
 
