@@ -1,10 +1,7 @@
 ## It's Me, Asif Bhuiyan
 
-###  I'm a Web Developer
-<p>
- I'm a Web Developer <br> 
- I have a keen interest in Machine Learning and Web Development and have a huge fascination with technology. <br> 
-</p> 
+#### FULL STACK DEVELOPER
+
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Connect With Me
