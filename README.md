@@ -16,12 +16,9 @@
 
 </p>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img align="right" alt="Coding" width="800" src="https://github.com/Mirzaazmath/threads_clone/blob/main/assets/output/coding.gif">
+<img width="800" height="220" alt="Coding" src="https://github.com/Mirzaazmath/threads_clone/blob/main/assets/output/coding.gif">
 
 ## About Me
-
-
-### I'm a full-stack web developer who thrives at the intersection of design and functionality. I wield both front-end and back-end languages to craft beautiful, user-centric web experiences. Over the years, I've honed my skills and gained valuable experience in both front-end and back-end development.  I'm always eager to take on new challenges and push the boundaries of what's possible in the digital realm. Dive into my code and explore the worlds I build!
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
