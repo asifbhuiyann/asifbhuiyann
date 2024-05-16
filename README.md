@@ -16,7 +16,7 @@
 
 </p>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img width="800" height="260" alt="Coding" src="https://github.com/Mirzaazmath/threads_clone/blob/main/assets/output/coding.gif">
+<img width="800" height="300" alt="Coding" src="https://github.com/Mirzaazmath/threads_clone/blob/main/assets/output/coding.gif">
 
 ## About Me
 
