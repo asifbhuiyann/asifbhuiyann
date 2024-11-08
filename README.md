@@ -17,10 +17,8 @@
 <a href="https://www.linkedin.com/in/asif-bhuiyan-a1b701202/?originalSubdomain=bd" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="asif-bhuiyan" /></a>
 <a href="https://sites.google.com/view/asifbhuiyan" target="_blank"><img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="asif-bhuiyan" /></a>
  </p>
+ 
 <!-- <a href="" target="_blank"><img align="center" src="https://visitcount.itsvg.in/api?id=asifbhuiyann&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in" alt="Visitors" /></a>  -->
-
-
-
 <!--  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 <!-- <img width="800" height="300" alt="Coding" src="https://github.com/Mirzaazmath/threads_clone/blob/main/assets/output/coding.gif">
   -->
@@ -45,6 +43,7 @@
 <!-- <img alt="LARAVEL" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"> -->
 <!-- <img alt="apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"> -->
 <!-- <img alt="LATEX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">  -->
+
 <img alt="GIT" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 
 </p>
@@ -64,8 +63,6 @@
   </a>
 </p>
 
-
- 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=asifbhuiyann&style=for-the-badge&color=orange" alt="profile views"/>
 </div>
@@ -74,7 +71,6 @@
 
 ## Github Activity Graph
 [![Asif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asifbhuiyann&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifbhuiyann&layout=compact)-->
