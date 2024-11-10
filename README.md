@@ -62,8 +62,8 @@
 
 <p align="center">
 <a href="https://github.com/asifbhuiyann">
-  <img width="800" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifbhuiyann&theme=codeSTACKr&bg_color=00000000&hide_border=true&layout=compact&include_all_commits=true&count_private=true&disable_animations=true" alt="asifbhuiyann" width="auto" height="50%"/>
-  <img width="800" height="300" src="https://streak-stats.demolab.com?user=asifbhuiyann&theme=codeSTACKr&bg_color=00000000&hide_border=true&layout=compact&include_all_commits=true&count_private=true&disable_animations=true" alt="asifbhuiyann" width="auto" height="50%"">
+  <img width="800" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifbhuiyann&theme=codeSTACKr&bg_color=00000000&hide_border=true&layout=compact&include_all_commits=true&count_private=true&disable_animations=true" alt="asifbhuiyann" width="auto" height="50%"/>
+  <img width="800" height="200" src="https://streak-stats.demolab.com?user=asifbhuiyann&theme=codeSTACKr&bg_color=00000000&hide_border=true&layout=compact&include_all_commits=true&count_private=true&disable_animations=true" alt="asifbhuiyann" width="auto" height="50%"">
   </a> 
 </p>
 
