@@ -51,11 +51,14 @@
  
 ## Github Stats
 <p align="center">
-<img width="800" height="200" src="https://github-readme-stats.vercel.app/api?username=asifbhuiyann&show_icons=true&theme=light"> 
+<!-- 
+ <img width="800" height="200" src="https://github-readme-stats.vercel.app/api?username=asifbhuiyann&show_icons=true&theme=light"> 
+  <img src="https://github-readme-stats-mekaiser.vercel.app/api?username=asifbhuiyann&theme=codeSTACKr&bg_color=00000000&hide_border=true&show_icons=true&count_private=true&disable_animations=true" alt="mekaiser" width="auto" height="50%"/> 
+ -->
   
 </p> 
 <p align="center"> 
-    <img src="https://github-readme-stats-mekaiser.vercel.app/api?username=asifbhuiyann&theme=codeSTACKr&bg_color=00000000&hide_border=true&show_icons=true&count_private=true&disable_animations=true" alt="mekaiser" width="auto" height="50%"/> 
+   
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifbhuiyann&theme=codeSTACKr&bg_color=00000000&hide_border=true&layout=compact&include_all_commits=true&count_private=true&disable_animations=true" alt="asifbhuiyann" width="auto" height="50%""/>
 </p>
 <p align="center">
