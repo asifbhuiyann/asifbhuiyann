@@ -57,13 +57,14 @@
  
 </p> -->
 <p align="center">    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifbhuiyann&theme=codeSTACKr&bg_color=00000000&hide_border=true&layout=compact&include_all_commits=true&count_private=true&disable_animations=true" alt="asifbhuiyann" width="auto" height="50%""/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifbhuiyann&theme=codeSTACKr&bg_color=00000000&hide_border=true&layout=compact&include_all_commits=true&count_private=true&disable_animations=true" alt="asifbhuiyann" width="auto" height="50%"/>
 </p>
+
 <p align="center">
 <a href="https://github.com/asifbhuiyann">
-     <img width="800" height="220" src="https://streak-stats.demolab.com?user=asifbhuiyann&theme=light&hide_border=true&border_radius=5&card_width=800">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifbhuiyann&theme=codeSTACKr&bg_color=00000000&hide_border=true&layout=compact&include_all_commits=true&count_private=true&disable_animations=true" alt="asifbhuiyann" width="auto" height="50%"/>
+     <img width="800" height="220" src="https://streak-stats.demolab.com?user=asifbhuiyann&theme=codeSTACKr&bg_color=00000000&hide_border=true&layout=compact&include_all_commits=true&count_private=true&disable_animations=true" alt="asifbhuiyann" width="auto" height="50%"">
   </a> 
- 
 </p>
 
 <div id="header" align="center">
